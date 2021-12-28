@@ -11,6 +11,7 @@ Projeto Edison Jr
 ## Tecnologias
 
 - NodeJS
+- Sequelize
 - EJS
 - HTML
 - CSS
